@@ -1,107 +1,122 @@
 <h1 align="center">Hi 👋, I'm Eslam Saleh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Senior+Flutter+Developer;Backend+Expert+(Laravel+%2F+PHP);System+Architect;5000%2B+App+Downloads+Achiever;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Senior+Flutter+Developer;Backend+Expert+(Laravel+%2F+PHP);System+Architect;5000%2B+App+Downloads;Clean+Architecture+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Developer coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💡 I am a **Senior Flutter & Backend Developer** dedicated to building scalable, high-performance mobile applications and robust backend systems. I specialize in turning complex ideas into production-ready solutions.
+I'm **Eslam Saleh**, a Senior Flutter & Backend Developer passionate about building scalable mobile applications and production-grade backend systems.
 
-- 🏆 **Achievement**: Developed and scaled applications to over **5,000+ active downloads** on Google Play.
-- 🏗️ **Core Focus**: Clean Architecture, Performance Optimization, and Real-time Systems.
-- 🔭 **Current Projects**: Architecting advanced service platforms and AI-integrated solutions.
-- 📍 **Location**: Egypt
+I focus on transforming ideas into real products with strong architecture, performance optimization, and maintainable code.
+
+### Highlights
+
+* 🏆 Built applications reaching **5,000+ active downloads**
+* 📱 Specialized in **Flutter Development**
+* ⚙️ Backend expertise using **Laravel / PHP**
+* 🏗️ Strong advocate of **Clean Architecture**
+* 🚀 Interested in AI integrations & scalable systems
+* 📍 Egypt
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🎯 Current Focus
+
+* 🔭 Building advanced service platforms
+* 🌱 Exploring AI-powered mobile experiences
+* 👯 Open to collaboration on Flutter & Backend systems
+* 💬 Ask me about Flutter, Laravel, Architecture & Scaling
+
+---
+
+# 🛠️ Technology Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,firebase,mysql,postgres,docker,aws,git,github,githubactions,postman,figma,vscode" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,firebase,mysql,postgres,docker,aws,git,github,githubactions,postman,figma,vscode"/>
 </p>
 
 ---
 
-## 📱 Featured Premium Portfolio
+# 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="33.3%">
-        <h3 align="center">Quick Pad (5k+ DL)</h3>
-        <p align="center">E-Book Reading Engine</p>
-        <p align="center"><a href="https://eslamsaleeh98.github.io/Quick-Pad-Project/"><b>[ Live Demo ]</b></a></p>
-      </td>
-      <td width="33.3%">
-        <h3 align="center">Ammed (عمد)</h3>
-        <p align="center">Construction Management</p>
-        <p align="center"><a href="https://eslamsaleeh98.github.io/Ammed/"><b>[ Live Demo ]</b></a></p>
-      </td>
-      <td width="33.3%">
-        <h3 align="center">SportX</h3>
-        <p align="center">Sports Booking App</p>
-        <p align="center"><a href="https://eslamsaleeh98.github.io/SPORTX/"><b>[ Live Demo ]</b></a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33.3%">
-        <h3 align="center">i-Friend</h3>
-        <p align="center">AI Parenting Control</p>
-        <p align="center"><a href="https://eslamsaleeh98.github.io/i-Friend-Project/"><b>[ Live Demo ]</b></a></p>
-      </td>
-      <td width="33.3%">
-        <h3 align="center">Wajbati (وجبتي)</h3>
-        <p align="center">Meal Subscription System</p>
-        <p align="center"><a href="https://eslamsaleeh98.github.io/WAJBATI-APP/"><b>[ Live Demo ]</b></a></p>
-      </td>
-      <td width="33.3%">
-        <h3 align="center">Mzaodin (مزودين)</h3>
-        <p align="center">Real-time Bidding App</p>
-        <p align="center"><a href="https://eslamsaleeh98.github.io/MZAODIN/"><b>[ Live Demo ]</b></a></p>
-      </td>
-    </tr>
-  </table>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamsaleeh98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamsaleeh98&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=eslamsaleeh98&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamsaleeh98&theme=tokyonight"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamsaleeh98&theme=tokyo-night"/>
+
+---
+
+# 🏗️ Featured Portfolio
+
+<div align="center">
+
+| Project      | Description                           | Demo                                                       |
+| ------------ | ------------------------------------- | ---------------------------------------------------------- |
+| 📚 Quick Pad | E-Book Reading Engine • 5K+ Downloads | [Live](https://eslamsaleeh98.github.io/Quick-Pad-Project/) |
+| 🏗️ Ammed    | Construction Management Platform      | [Live](https://eslamsaleeh98.github.io/Ammed/)             |
+| ⚽ SportX     | Sports Booking Application            | [Live](https://eslamsaleeh98.github.io/SPORTX/)            |
+| 🤖 i-Friend  | AI Parenting Control                  | [Live](https://eslamsaleeh98.github.io/i-Friend-Project/)  |
+| 🍽️ Wajbati  | Meal Subscription System              | [Live](https://eslamsaleeh98.github.io/WAJBATI-APP/)       |
+| 📈 Mzaodin   | Real-time Bidding Platform            | [Live](https://eslamsaleeh98.github.io/MZAODIN/)           |
+
 </div>
 
 ---
 
-## 📊 GitHub Ecosystem
+# 🧠 Engineering Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamsaleeh98&show_icons=true&theme=tokyonight&count_private=true" width="400" alt="Eslam Saleh GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamsaleeh98&layout=compact&theme=tokyonight" width="300" alt="Eslam Saleh top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamsaleeh98&theme=tokyonight" width="710" alt="Eslam Saleh GitHub streak stats" />
-</p>
+* Clean Code
+* Clean Architecture
+* Performance Optimization
+* Product Thinking
+* Scalable Systems
 
 ---
 
-## 🧠 Engineering Philosophy
-
-- **Clean Code**: Writing code that is readable, maintainable, and self-documenting.
-- **Architecture**: Solid implementation of **Clean Architecture** and **MVVM/Bloc** patterns.
-- **Scalability**: Building systems that grow seamlessly with user demand.
-- **Product Mindset**: Focusing on solving real-world problems through technology.
-
----
-
-## 🌐 Let's Build Something Great
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/eslamsaleeh98"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:eslamsaleeh98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://stackoverflow.com/users/eslamsaleeh98"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+
+<a href="https://linkedin.com/in/eslamsaleeh98">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:eslamsaleeh98@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://stackoverflow.com/users/eslamsaleeh98">
+<img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eslamsaleeh98&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=eslamsaleeh98&color=blueviolet&style=for-the-badge"/>
 </p>
+
+<div align="center">
+
+### 🚀 Building products, not just applications
+
+</div>
